@@ -16,7 +16,7 @@
 	"dependencies": {
 		"date-fns": "^2.16.1",
 		"mongoose": "^5.11.12",
-		"next": "10.0.5",
+		"next": "11.1.0",
 		"next-connect": "^0.9.1",
 		"react": "17.0.1",
 		"react-dom": "17.0.1",
